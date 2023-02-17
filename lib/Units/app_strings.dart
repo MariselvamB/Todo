@@ -1,0 +1,53 @@
+// ignore_for_file: constant_identifier_names
+
+class AppStrings {
+  static const String Todo = "Todo";
+  static const String AssignedToMe = "Assigned To Me";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+  // static const String Todo = "Todo";
+}
